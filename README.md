@@ -7,3 +7,5 @@ The Rossmann stores provided training data for 1,115 different stores from Janua
 
 
 More detials and link to this project can be found here: https://nycdatascience.com/blog/student-works/forecasting-grocery-store-sales-using-machine-learning/
+
+Link to Kaggle competition can be found here: https://www.kaggle.com/c/rossmann-store-sales
